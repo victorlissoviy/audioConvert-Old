@@ -1,6 +1,6 @@
 #include "thread.h"
 #include <QFileInfo>
-//dev
+
 void Thread::toWav(){
     QProcess process;
     QString command = nullptr;
